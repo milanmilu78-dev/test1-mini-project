@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 from model import predict_style
 
 st.set_page_config(
@@ -72,4 +71,5 @@ if st.button("🔍 Analyze Learning Style"):
 
     st.markdown("---")
     st.caption("📌 AI Model: Random Forest Classifier | Dataset: Simulated Academic Dataset")
+
 
