@@ -70,6 +70,8 @@ if st.button("🔍 Analyze Learning Style"):
         st.info("✔ Learn via hands-on practice, experiments, and simulations.")
 
     st.markdown("---")
+    
     st.caption("📌 AI Model: Random Forest Classifier | Dataset: Simulated Academic Dataset")
+
 
 
